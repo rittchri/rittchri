@@ -18,4 +18,5 @@ console.log(sayHi);
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=2% height=2%>
-     
+
+[![Linkedin: christinaritter](https://img.shields.io/badge/-christinaritter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinaritter/)](https://www.linkedin.com/in/christina-ritter-90627819b/)
