@@ -1,6 +1,6 @@
 ## Hi there, I am Christina
 
-:new_moon: I am currently on a mission to start a new career in **FullStack Web Development** with Spiced Academy
+:new_moon: I am currently on a mission to start a new career in **Full Stack Web Development** 
 
 :full_moon: Having a background in **architecture** and **landscape architecture**, I get excited about
 - _design_          
