@@ -1,6 +1,6 @@
 ## Hi there, I am Christina
 
-:new_moon: I am currently on a mission to start a new career in **FullStack Web Development**.
+:new_moon: I am currently on a mission to start a new career in **FullStack Web Development** with Spiced Academy
 
 :full_moon: Having a background in **architecture** and **landscape architecture**, I get excited about
 - _design_          
@@ -15,8 +15,5 @@ console.log(sayHi);
 ```
 <img src="https://media.giphy.com/media/JpCXB894hA1rgd94u9/giphy.gif" width=20% height=20%>
 
-
-
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=2% height=2%>
 
 [![Linkedin: christinaritter](https://img.shields.io/badge/-christinaritter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinaritter/)](https://www.linkedin.com/in/christina-ritter-90627819b/)
