@@ -17,3 +17,4 @@ console.log(sayHi);
 
 
 [![Linkedin: christinaritter](https://img.shields.io/badge/-christinaritter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinaritter/)](https://www.linkedin.com/in/christina-ritter-90627819b/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=christinaritter&left_color=pink&right_color=blue)
