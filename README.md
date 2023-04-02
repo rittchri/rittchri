@@ -9,10 +9,6 @@
 - technology        
 
 ---
-```javascript
-const sayHi = "Hello World!";
-console.log(sayHi);
-```
 <img src="https://media.giphy.com/media/JpCXB894hA1rgd94u9/giphy.gif" width=20% height=20%>
 
 
