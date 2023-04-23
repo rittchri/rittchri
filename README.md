@@ -1,12 +1,12 @@
-##' Hi there, I am Christina
+### Hi there, I am Christina
 
 :new_moon: Full Stack Web Developer currently learning typescript
 
 :full_moon: Having a background in **architecture** and **landscape architecture**, I get excited about
-- _design_         
--  technology   
-- _architecture_    
--  sociology      
+* design    
+* technology   
+* architecture 
+* sociology      
 
 ---
 <img src="https://media.giphy.com/media/JpCXB894hA1rgd94u9/giphy.gif" width=20% height=20%>
