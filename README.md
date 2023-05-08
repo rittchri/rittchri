@@ -14,4 +14,4 @@
 
 [![Linkedin: christinaritter](https://img.shields.io/badge/-christinaritter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinaritter/)](https://www.linkedin.com/in/christina-ritter-90627819b/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritterchri)](https://github.com/anuraghazra/github-readme-stats)
