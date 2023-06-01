@@ -8,7 +8,7 @@
 Inspired by the vision of a sustainable future, \
 I continuously refine my interdisciplinary perspective on global structures, \
 aiming to explore new angles and connect various disciplines such as \
-**science, digitalization, art, ecology, and social issues.**
+**science, technology, design, ecology and sociology.**
 
 ---
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/><img
