@@ -1,6 +1,6 @@
 ### Hi there, I am Christina
 
-:new_moon: Full Stack Web Developer, Tech and Design Enthusiast 
+:new_moon: Tech and Design Enthusiast 
 
 :full_moon: Currently learning TypeScript
 
